@@ -1,2 +1,2 @@
 # cs3240-labdemo
-I'M EDITING THIS README AND YOU CANT STOP ME.
+To seek the holy grail!
